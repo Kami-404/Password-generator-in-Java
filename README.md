@@ -1,18 +1,18 @@
-## Projet
+## Project
 
-Il s'agit d'un générateur de mots de passe en Java. 
+This is a Java password generator. 
 
-## Objectif du projet 
+## Project objective 
 
-Capable de générer des mots de passe aléatoire en fonction des critères définis tels que la longueur et la complexité. 
+Able to generate random passwords based on defined criteria such as length and complexity. 
 
-## Pré-requis 
+## Requirements
 
 - JDK
 - Maven
 - IDE
 
-## Utilisation
+## Usage
 
 ### Installation
 ``` git clone https://github.com/Kami-404/Simple-password-generator-in-Java.git ```
@@ -21,19 +21,19 @@ Capable de générer des mots de passe aléatoire en fonction des critères déf
 
 ``` mvn clean install ```
 
-### Test unitaire
+### Unit testing
 
 ``` mvn test ```
 
-### Génération des mots de passe
+### Password generation
 
-Utiliser le terminal pour exécuter le programme : 
+Use the terminal to run the program: 
 
 ``` java -jar target/pwd-generator-1.0-SNAPSHOT.jare ```
-ou
+or
 ``` javac PwdGenerator.java ```
 ``` java PwdGenerator ```
 
-## Merci d'avoir utilisé ce projet !
+## Thank you for using this project!
 
-J'ai simplement réalisé ce projet pour s'amuser. J'espère que cela vous a été utile et qu'il répond à vos besoins.
+I simply made this project for fun. I hope you found it useful and that it meets your needs.
