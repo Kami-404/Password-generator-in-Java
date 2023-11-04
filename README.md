@@ -17,7 +17,7 @@ Able to generate random passwords based on defined criteria such as length and c
 ### Installation
 ``` git clone https://github.com/Kami-404/Simple-password-generator-in-Java.git ```
 
-``` cd Simple-password-generator-in-java ```
+``` cd Password-generator-in-java ```
 
 ``` mvn clean install ```
 
