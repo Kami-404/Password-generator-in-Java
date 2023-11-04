@@ -15,8 +15,8 @@ Capable de générer des mots de passe aléatoire en fonction des critères déf
 ## Utilisation
 
 ### Installation
-``` git clone ```
-``` cd ```
+``` git clone https://github.com/Kami-404/Simple-password-generator-in-Java.git ```
+``` cd Simple-password-generator-in-java ```
 ``` mvn clean install ```
 
 ### Test unitaire
